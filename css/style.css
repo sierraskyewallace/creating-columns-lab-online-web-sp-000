@@ -48,16 +48,16 @@ img:hover {
   background-color: #dd4444;
 }
 
-.column {
-  width: 30%;
+.col {
+  width: 32%;
   display: inline-block;
 }
-
 
 .small {
   width: 100%;
   height: 100%;
 }
+
 
 .med {
   width: 200%;
