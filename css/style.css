@@ -48,9 +48,10 @@ img:hover {
   background-color: #dd4444;
 }
 
-.col {
-  width: 32%;
+.column {
+  width: 30%;
   display: inline-block;
+
 }
 
 .small {
@@ -58,13 +59,12 @@ img:hover {
   height: 100%;
 }
 
-
 .med {
-  width: 200%;
-  height: 200%;
+  width: 201.5%;
+  height: 201.5%;
 }
 
 .large {
-  width: 300%;
-  height: 300%;
+  width: 303%;
+  height: 303%;
 }
